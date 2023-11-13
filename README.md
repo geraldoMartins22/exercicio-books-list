@@ -24,6 +24,15 @@ Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://
 
 </details>
 
+<details>
+<summary><strong>🗓 Data de Entrega</strong></summary><br />
+
+- Este exercício é individual
+
+- Data para entrega final do exercício: `05/12/2023 às 23:59 (Horário de Brasília)`.
+
+</details>
+
 # Orientações
 
 <details>
