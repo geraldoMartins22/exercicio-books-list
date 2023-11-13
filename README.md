@@ -25,7 +25,7 @@ Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://
 </details>
 
 <details>
-<summary><strong>🗓 Data de Entrega</strong></summary><br />
+<summary><strong>🗓 Data de Entrega</strong></summary>
 
 - Este exercício é individual
 
