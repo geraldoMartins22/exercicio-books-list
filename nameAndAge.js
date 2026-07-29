@@ -1,7 +1,11 @@
-// const { books } = require('./data/library');
+const { books } = require('./data/library');
 
-const nameAndAge = () => {
-  // escreva seu código aqui
-};
+const nameAndAge = () =>
+  books
+    .map((book) => ({
+      age: book.releaseYear - book.author.birthYear,
+      author: book.author.name,
+    }))
+    .sort((a, b) => a.age - b.age);
 
 module.exports = { nameAndAge };
